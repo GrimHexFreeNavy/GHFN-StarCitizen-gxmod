@@ -1,5 +1,5 @@
 {
-    "name": "GHFN Star Citizen",
+    "name": "GHFN Star Citizen 3.20",
     "description": "Grim Hex Free Navy GX Mod",
     "developer":
     {
@@ -17,7 +17,7 @@
         {
             "background_music":
             [
-                "music/MainMenuMusicSeamless_01.mp3"
+                "music/MainTheme.mp3"
             ],
             "browser_sounds":
             {
@@ -130,49 +130,15 @@
             },
             "wallpaper": [
                 {
-                    "id": "3.23_1",
-                    "title": "3.23 Menu Screen",
+                    "id": "3.20",
+                    "title": "3.20 Menu Screen",
                     "light": {
-                        "image": "wallpaper/3.23_1.webm",
-                        "first_frame": "wallpaper/3.23_1_firstframe.png",
+                        "image": "wallpaper/3.20.png",
                         "text_color": "#FFFFFF",
                         "text_shadow": "#0B000E"
                     },
                     "dark": {
-                        "image": "wallpaper/3.23_1.webm",
-                        "first_frame": "wallpaper/3.23_1_firstframe.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    }
-                },
-                {
-                    "id": "3.22_1",
-                    "title": "3.22 Menu Screen",
-                    "light": {
-                        "image": "wallpaper/3.22_1.webm",
-                        "first_frame": "wallpaper/3.22_1_firstframe.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    },
-                    "dark": {
-                        "image": "wallpaper/3.22_1.webm",
-                        "first_frame": "wallpaper/3.22_1_firstframe.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    }
-                },
-                {
-                    "id": "ArcCityScap1",
-                    "title": "ArcCorp City Scape 1",
-                    "light": {
-                        "image": "wallpaper/ArcCorp_CityScape_orig.webm",
-                        "first_frame": "wallpaper/ArcCorp_CityScape_orig_firstframe.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    },
-                    "dark": {
-                        "image": "wallpaper/ArcCorp_CityScape_orig.webm",
-                        "first_frame": "wallpaper/ArcCorp_CityScape_orig_firstframe.png",
+                        "image": "wallpaper/3.20.png",
                         "text_color": "#FFFFFF",
                         "text_shadow": "#0B000E"
                     }
@@ -206,76 +172,6 @@
                     }
                 },
                 {
-                    "id": "SC2",
-                    "title": "SC Wallpaper 2",
-                    "light": {
-                        "image": "wallpaper/SC_02_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    },
-                    "dark": {
-                        "image": "wallpaper/SC_02_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    }
-                },
-                {
-                    "id": "SC3",
-                    "title": "SC Wallpaper 3",
-                    "light": {
-                        "image": "wallpaper/SC_03_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    },
-                    "dark": {
-                        "image": "wallpaper/SC_03_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    }
-                },
-                {
-                    "id": "SC4",
-                    "title": "SC Wallpaper 4",
-                    "light": {
-                        "image": "wallpaper/SC_04_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    },
-                    "dark": {
-                        "image": "wallpaper/SC_04_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    }
-                },
-                {
-                    "id": "SC5",
-                    "title": "SC Wallpaper 5",
-                    "light": {
-                        "image": "wallpaper/SC_05_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    },
-                    "dark": {
-                        "image": "wallpaper/SC_05_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    }
-                },
-                {
-                    "id": "SC6",
-                    "title": "SC Wallpaper 6",
-                    "light": {
-                        "image": "wallpaper/SC_06_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    },
-                    "dark": {
-                        "image": "wallpaper/SC_06_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    }
-                },
-                {
                     "id": "SC7",
                     "title": "SC Wallpaper 7",
                     "light": {
@@ -288,248 +184,10 @@
                         "text_color": "#FFFFFF",
                         "text_shadow": "#0B000E"
                     }
-                },
-                {
-                    "id": "SC8",
-                    "title": "SC Wallpaper 8",
-                    "light": {
-                        "image": "wallpaper/SC_08_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    },
-                    "dark": {
-                        "image": "wallpaper/SC_08_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    }
-                },
-                {
-                    "id": "SC9",
-                    "title": "SC Wallpaper 9",
-                    "light": {
-                        "image": "wallpaper/SC_09_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    },
-                    "dark": {
-                        "image": "wallpaper/SC_09_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    }
-                },
-                {
-                    "id": "SC10",
-                    "title": "SC Wallpaper 10",
-                    "light": {
-                        "image": "wallpaper/SC_10_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    },
-                    "dark": {
-                        "image": "wallpaper/SC_10_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    }
-                },
-                {
-                    "id": "SC11",
-                    "title": "SC Wallpaper 11",
-                    "light": {
-                        "image": "wallpaper/SC_11_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    },
-                    "dark": {
-                        "image": "wallpaper/SC_11_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    }
-                },
-                {
-                    "id": "SC12",
-                    "title": "SC Wallpaper 12",
-                    "light": {
-                        "image": "wallpaper/SC_12_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    },
-                    "dark": {
-                        "image": "wallpaper/SC_12_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    }
-                },
-                {
-                    "id": "SC13",
-                    "title": "SC Wallpaper 13",
-                    "light": {
-                        "image": "wallpaper/SC_13_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    },
-                    "dark": {
-                        "image": "wallpaper/SC_13_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    }
-                },
-                {
-                    "id": "SC14",
-                    "title": "SC Wallpaper 14",
-                    "light": {
-                        "image": "wallpaper/SC_14_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    },
-                    "dark": {
-                        "image": "wallpaper/SC_14_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    }
-                },
-                {
-                    "id": "SC15",
-                    "title": "SC Wallpaper 15",
-                    "light": {
-                        "image": "wallpaper/SC_15_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    },
-                    "dark": {
-                        "image": "wallpaper/SC_15_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    }
-                },
-                {
-                    "id": "SC16",
-                    "title": "SC Wallpaper 16",
-                    "light": {
-                        "image": "wallpaper/SC_10_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    },
-                    "dark": {
-                        "image": "wallpaper/SC_16_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    }
-                },
-                {
-                    "id": "SC17",
-                    "title": "SC Wallpaper 17",
-                    "light": {
-                        "image": "wallpaper/SC_17_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    },
-                    "dark": {
-                        "image": "wallpaper/SC_17_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    }
-                },
-                {
-                    "id": "SC18",
-                    "title": "SC Wallpaper 18",
-                    "light": {
-                        "image": "wallpaper/SC_18_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    },
-                    "dark": {
-                        "image": "wallpaper/SC_18_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    }
-                },
-                {
-                    "id": "SC19",
-                    "title": "SC Wallpaper 19",
-                    "light": {
-                        "image": "wallpaper/SC_19_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    },
-                    "dark": {
-                        "image": "wallpaper/SC_19_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    }
-                },
-                {
-                    "id": "SC20",
-                    "title": "SC Wallpaper 20",
-                    "light": {
-                        "image": "wallpaper/SC_20_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    },
-                    "dark": {
-                        "image": "wallpaper/SC_20_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    }
-                },
-                {
-                    "id": "SC21",
-                    "title": "SC Wallpaper 21",
-                    "light": {
-                        "image": "wallpaper/SC_21_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    },
-                    "dark": {
-                        "image": "wallpaper/SC_21_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    }
-                },
-                {
-                    "id": "SC22",
-                    "title": "SC Wallpaper 22",
-                    "light": {
-                        "image": "wallpaper/SC_22_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    },
-                    "dark": {
-                        "image": "wallpaper/SC_22_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    }
-                },
-                {
-                    "id": "SC23",
-                    "title": "SC Wallpaper 23",
-                    "light": {
-                        "image": "wallpaper/SC_23_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    },
-                    "dark": {
-                        "image": "wallpaper/SC_23_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    }
-                },
-                {
-                    "id": "SC24",
-                    "title": "SC Wallpaper 24",
-                    "light": {
-                        "image": "wallpaper/SC_24_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    },
-                    "dark": {
-                        "image": "wallpaper/SC_24_Wallpaper_1920x1080.png",
-                        "text_color": "#FFFFFF",
-                        "text_shadow": "#0B000E"
-                    }
                 }
             ]
         },
         "schema_version": 1
     },
-    "version": "1.0"
+    "version": "3.20"
 }
