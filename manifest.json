@@ -1,5 +1,5 @@
 {
-    "name": "GHFN Star Citizen 3.20",
+    "name": "GHFN Star Citizen 3.22",
     "description": "Grim Hex Free Navy GX Mod",
     "developer":
     {
@@ -130,15 +130,17 @@
             },
             "wallpaper": [
                 {
-                    "id": "3.20",
-                    "title": "3.20 Menu Screen",
+                    "id": "3.22_1",
+                    "title": "3.22_1 Menu Screen",
                     "light": {
-                        "image": "wallpaper/3.20.png",
+                        "image": "wallpaper/3.22_1.webm",
+                        "first_frame": "wallpaper/3.22_1_firstframe.png",
                         "text_color": "#FFFFFF",
                         "text_shadow": "#0B000E"
                     },
                     "dark": {
-                        "image": "wallpaper/3.20.png",
+                        "image": "wallpaper/3.22_1.webm",
+                        "first_frame": "wallpaper/3.22_1_firstframe.png",
                         "text_color": "#FFFFFF",
                         "text_shadow": "#0B000E"
                     }
@@ -189,5 +191,5 @@
         },
         "schema_version": 1
     },
-    "version": "3.20"
+    "version": "3.22"
 }
